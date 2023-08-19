@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Sujoy</h1> -->
 
-- 🔭 I’m currently working on [React Blog](https://github.com/Sujoy-2811/react-blog)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Sujoy-2811/portfolio)
 
 - 🌱 I’m currently learning **DSA**
 
