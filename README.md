@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Sujoy</h1> -->
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Sujoy-2811/portfolio)
+- 🔭 I’m currently working on [Blog-In](https://github.com/shbhm-0711/BLOG-IN)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **NextJs**
 
 <p align="left">
 </p>
